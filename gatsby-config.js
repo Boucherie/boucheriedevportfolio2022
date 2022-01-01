@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `BoucherieDev Rails Developer`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Emily Boucher`,
+      summary: `who lives and works in Toronto building useful things.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `A portfolio and blog focusing on dev matters.`,
+    siteUrl: `https://www.emilyboucher.ca`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `BoucherieDev`,
     },
   },
   plugins: [
@@ -128,5 +128,8 @@ module.exports = {
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
+    `gatsby-plugin-netlify-cms`,
+    `gatsby-plugin-emotion`,
+
   ],
 }
