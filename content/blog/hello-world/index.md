@@ -2,8 +2,9 @@
 title: Hello World
 date: 2015-05-01T22:12:03.284Z
 description: Hello World
+cover_image: https://images.app.goo.gl/1eaFfSXeFBewAXLh6
 ---
-![](https://miro.medium.com/max/1024/0*4ty0Adbdg4dsVBo3.png)
+![]()
 
 This is my first post on my new fake blog! How exciting!
 
