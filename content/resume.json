@@ -1,0 +1,22 @@
+{
+  "fullname": "Emily Boucher",
+  "role": "Rails Developer",
+  "summary": "Ruby on Rails developer (intermediate), ",
+  "experience": [
+    {
+      "start": "10/2018",
+      "end": "03/2020",
+      "role": "Rails Developer, Lead",
+      "company": "Stageforce",
+      "description": "TBD"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Ruby On Rails"
+    },
+    {
+      "name": "PostgreSQL"
+    }
+  ]
+}
